@@ -31,9 +31,8 @@ Division (÷)
 
 #### 3. Tools and Technologies:
 - **Programming Language**: Java
-- **IDE**: Eclipse, IntelliJ IDEA, or NetBeans (optional but recommended for ease of development)
 
-#### 4.Libraries: Java Standard Libraries (java.util.Scanner for input, java.swing or java.awt for GUI, if applicable)
+#### 4.Libraries: Java Standard Libraries (java.util.Scanner for input or java.awt for GUI, if applicable)
 
 #### 5. Steps to Implement:
 - **Setup**: Set up the development environment (IDE, project structure).
